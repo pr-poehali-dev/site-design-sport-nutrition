@@ -1,7 +1,7 @@
+import Icon from '@/components/ui/icon';
+
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 type AnyIcon = any;
-
-import Icon from '@/components/ui/icon';
 
 const CATEGORIES_FOOTER = [
   { name: 'Протеин' },

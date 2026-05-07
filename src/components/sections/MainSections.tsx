@@ -1,7 +1,7 @@
+import Icon from '@/components/ui/icon';
+
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 type AnyIcon = any;
-
-import Icon from '@/components/ui/icon';
 
 const HERO_IMAGE = 'https://cdn.poehali.dev/projects/89130207-c519-4eae-ab6f-c84c25d6ee0a/files/af02c5e3-224f-4681-8b90-57e458264720.jpg';
 

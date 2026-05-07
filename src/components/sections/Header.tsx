@@ -1,6 +1,3 @@
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-type AnyIcon = any;
-
 import Icon from '@/components/ui/icon';
 
 const NAV_LINKS = [
