@@ -160,7 +160,7 @@ export default function MainSections({ addToCart, activeCategory, setActiveCateg
 
                   <div className="flex items-center gap-2 mb-4">
                     <div className="flex gap-0.5">
-                      {[...Array(5)].map((_, j) => (
+                      {[...Array(5)].map((_x, j) => (
                         <Icon key={j} name="Star" size={12}
                           className={j < Math.floor(product.rating) ? 'text-yellow-400' : 'text-gray-200'} />
                       ))}
